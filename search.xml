@@ -79,6 +79,46 @@
       </tags>
   </entry>
   <entry>
+    <title>lunbotu</title>
+    <url>/2020/05/26/lunbotu/</url>
+    <content><![CDATA[<div class="demo"></div>
+<script>
+    function tt(){
+        $('.demo').slider({
+    imgList: [
+        {
+            img: 'https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3252521864,872614242&fm=26&gp=0.jpg',
+            a: '跳转url地址',
+        },
+        {
+            img: 'https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=372372667,1126179944&fm=26&gp=0.jpg',
+            a: '跳转url地址',
+        },
+        {
+            img: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=151472226,3497652000&fm=26&gp=0.jpg',
+            a: '跳转url地址',
+        }
+    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址
+    width: "100%", //图片的宽
+    height: 500, //图片的高
+    isAuto: false, //是否自动轮播
+    moveTime: 3000, //运动时间
+    direction: 'right', //轮播的方向
+    btnWidth: 30, //按钮的宽
+    btnHeight: 30, //按钮的高
+    spanWidth: 10, //span按钮的宽
+    spanHeight: 10, //span按钮的高
+    spanColor: '#fff', //span按钮的颜色
+    activeSpanColor: 'red', //选中的span颜色
+    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色
+    spanRadius: '50%', //span按钮的圆角程度
+    spanMargin: 3, //span之间的距离
+})
+    }
+    window.addEventListener('DOMContentLoaded',tt)
+</script>]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/05/26/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -183,45 +223,5 @@
       <tags>
         <tag>技术</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>lunbotu</title>
-    <url>/2020/05/26/lunbotu/</url>
-    <content><![CDATA[<div class="demo"></div>
-<script>
-    function tt(){
-        $('.demo').slider({
-    imgList: [
-        {
-            img: 'https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3252521864,872614242&fm=26&gp=0.jpg',
-            a: '跳转url地址',
-        },
-        {
-            img: 'https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=372372667,1126179944&fm=26&gp=0.jpg',
-            a: '跳转url地址',
-        },
-        {
-            img: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=151472226,3497652000&fm=26&gp=0.jpg',
-            a: '跳转url地址',
-        }
-    ], //图片的列表，a属性里面存放的是网络地址，img存放的是图片地址
-    width: "100%", //图片的宽
-    height: 500, //图片的高
-    isAuto: false, //是否自动轮播
-    moveTime: 3000, //运动时间
-    direction: 'right', //轮播的方向
-    btnWidth: 30, //按钮的宽
-    btnHeight: 30, //按钮的高
-    spanWidth: 10, //span按钮的宽
-    spanHeight: 10, //span按钮的高
-    spanColor: '#fff', //span按钮的颜色
-    activeSpanColor: 'red', //选中的span颜色
-    btnBackgroundColor: 'rgba(0, 0, 0, 0.3)', //两侧按钮的颜色
-    spanRadius: '50%', //span按钮的圆角程度
-    spanMargin: 3, //span之间的距离
-})
-    }
-    window.addEventListener('DOMContentLoaded',tt)
-</script>]]></content>
   </entry>
 </search>
