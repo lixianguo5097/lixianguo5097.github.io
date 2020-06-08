@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hexo.lxgblog.com/music/index.html</loc>
+    
+    <lastmod>2020-06-08T02:21:01.100Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hexo.lxgblog.com/64547.html</loc>
+    
+    <lastmod>2020-06-08T01:57:22.661Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hexo.lxgblog.com/tags/index.html</loc>
     
     <lastmod>2020-06-03T03:45:22.593Z</lastmod>
@@ -23,21 +37,14 @@
   </url>
   
   <url>
-    <loc>https://hexo.lxgblog.com/music/index.html</loc>
-    
-    <lastmod>2020-06-03T03:44:19.894Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hexo.lxgblog.com/2018/09/07/My-New-Post/</loc>
+    <loc>https://hexo.lxgblog.com/25697.html</loc>
     
     <lastmod>2020-05-28T06:46:51.922Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hexo.lxgblog.com/2020/05/26/hello-world/</loc>
+    <loc>https://hexo.lxgblog.com/16107.html</loc>
     
     <lastmod>2020-05-28T06:34:33.070Z</lastmod>
     
@@ -51,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.lxgblog.com/2020/05/26/lunbotu/</loc>
+    <loc>https://hexo.lxgblog.com/59527.html</loc>
     
     <lastmod>2020-05-26T08:58:14.444Z</lastmod>
     
